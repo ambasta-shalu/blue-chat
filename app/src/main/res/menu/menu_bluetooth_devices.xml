@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search_devices"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:iconTint="@color/black"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/action_scan_nearby"
+        android:icon="@drawable/ic_baseline_refresh_24"
+        android:iconTint="@color/black"
+        android:title="Scan Nearby"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_paired_devices"
+        android:icon="@drawable/ic_baseline_bluetooth_connected_24"
+        android:iconTint="@color/black"
+        android:title="Paired Devices"
+        app:showAsAction="never" />
+
+</menu>
