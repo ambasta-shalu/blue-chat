@@ -17,10 +17,10 @@ It uses BluetoothAdapter API to get all the available devices and paired devices
 Currently the app lets you connect one device at a time resulting you can chat to one device at a time.
 
 
-<img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/blob/master/snapshot1.jpg">
+<!-- <img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/blob/master/snapshot1.jpg">
 <img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/blob/master/snapshot2.jpg">
 <img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/blob/master/snapshot3.jpg">
-<img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/blob/master/snapshot4.jpg">
+<img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/blob/master/snapshot4.jpg"> -->
 
 <b> Functionality & Concepts used : </b>
 
