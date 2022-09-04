@@ -1,6 +1,7 @@
 # Blue Chat
 
 ## Android-Study-Jams
+This project was submitted by me during faciliating Android App Development using Kotlin under Android Study Jams in my Campus [GDSC-GCE].
 
 <b> Problem Statement: </b>
 
@@ -17,10 +18,7 @@ It uses BluetoothAdapter API to get all the available devices and paired devices
 Currently the app lets you connect one device at a time resulting you can chat to one device at a time.
 
 
-<!-- <img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/blob/master/snapshot1.jpg">
-<img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/blob/master/snapshot2.jpg">
-<img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/blob/master/snapshot3.jpg">
-<img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/blob/master/snapshot4.jpg"> -->
+<img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/master/App-Snapshot/snapshot1.jpg"> <img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/master/App-Snapshot/snapshot2.jpg"> <img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/master/App-Snapshot/snapshot3.jpg"> <img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/blue-chat/master/App-Snapshot/snapshot4.jpg">
 
 <b> Functionality & Concepts used : </b>
 
@@ -34,6 +32,6 @@ Currently the app lets you connect one device at a time resulting you can chat t
 <b> Application Link & Future Scope : </b>
 
 The app is currently in the Alpha testing phase with a limited no. of users.
-You can access the app : https://github.com/ambasta-shalu/blue-chat/blob/master/app-debug.apk.
+You can access the app : <a href="https://github.com/ambasta-shalu/blue-chat/blob/master/app-debug.apk"> Here 🤓</a>
 
 Once the app is fully tested and functional, I will plan to launch it on Google Play Store :)
