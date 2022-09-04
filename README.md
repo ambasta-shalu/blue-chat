@@ -33,6 +33,7 @@ Currently the app lets you connect one device at a time resulting you can chat t
 
 <b> Application Link & Future Scope : </b>
 
-The app is currently in the Alpha testing phase with a limited no. of users, You can access the app : https://github.com/ambasta-shalu/blue-chat.
+The app is currently in the Alpha testing phase with a limited no. of users.
+You can access the app : https://github.com/ambasta-shalu/blue-chat/blob/master/app-debug.apk.
 
 Once the app is fully tested and functional, I will plan to launch it on Google Play Store :)
