@@ -1,4 +1,4 @@
-# Blue Chat
+# Blue Chat 🦜
 
 ## Android-Study-Jams
 This project was submitted by me during faciliating Android App Development using Kotlin under Android Study Jams in my Campus [GDSC-GCE].
