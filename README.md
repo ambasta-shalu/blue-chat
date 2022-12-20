@@ -11,7 +11,7 @@ Mobile Application can be used effectively for this job as they are widely used 
 
 <b> Proposed Solution : </b>
 
-This project proposes a “Bluetooth Chat App” named <b>Blue Chat </b>. Its features include you can use this app to chat with other person nearby without trobling him/her to connect to wifi.
+This project proposes a “Bluetooth Chat App” named <b>Blue Chat </b>. Its features include you can use this app to chat with other person nearby without troubling him/her to connect to wifi.
 It uses BluetoothAdapter API to get all the available devices and paired devices nearby. Upon clicking on devices, it enable you to chat to other devices.
 
 
